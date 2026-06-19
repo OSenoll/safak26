@@ -1,5 +1,5 @@
 # Military Countdown
 
-13 days until I return from military service.
+12 days until I return from military service.
 
-Updated: 2026-06-18 (Europe/Istanbul)
+Updated: 2026-06-19 (Europe/Istanbul)
