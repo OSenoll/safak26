@@ -1,5 +1,5 @@
 # Military Countdown
 
-I return from military service today.
+I am back!
 
 Updated: 2026-07-01 (Europe/Istanbul)
