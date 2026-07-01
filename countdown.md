@@ -1,5 +1,5 @@
 # Military Countdown
 
-1 days until I return from military service.
+I return from military service today.
 
-Updated: 2026-06-30 (Europe/Istanbul)
+Updated: 2026-07-01 (Europe/Istanbul)
